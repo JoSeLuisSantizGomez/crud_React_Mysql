@@ -1,0 +1,2 @@
+Para el funcionamiento del CRUD, en la carpeta htdocs, se crea una carpeta llamada empleados, 
+dentro de esa carpeta, va ir el archivo index.php 
